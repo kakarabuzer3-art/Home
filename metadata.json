@@ -1,0 +1,6 @@
+{
+  "name": "HAVEN",
+  "description": "Spatial visionOS-style smart-home dashboard floating in a sunlit Scandinavian living room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
